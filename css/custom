@@ -1,0 +1,3 @@
+#tf-menu > div > div > div.navbar-header > div > a > img{
+	width: 85%;
+}
